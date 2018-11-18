@@ -1,4 +1,4 @@
-# Bag-of-Words-Meets-Bags-of-Popcorn
+# 项目思路
 ## CountVectorizer
 - 将处理后的文本数据转成词频矩阵，每段评论作为样本，设置5000个最高词频的单词作为特征，统计样本中词的出现次数
 ```
